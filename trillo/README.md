@@ -1,4 +1,4 @@
 # Hotel website with Advanced Css
 
 
-![](/img/overview.jpg)
+![](img/overview.jpg)
